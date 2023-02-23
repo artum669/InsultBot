@@ -30,4 +30,4 @@ async def list_phrases(ctx):
     await ctx.send(f'List of custom phrases:\n{phrase_list}')
 
 
-bot.run('ODM1Mjc0ODcwMjQ4OTY0MTY2.G7d6bk.yTYmW252-LTDnaNTrRvclwHUr3_g_XhCxzgQCk') # Replace this with your bot token
+bot.run('') # Replace this with your bot token
